@@ -174,5 +174,9 @@
 .bg-common_title, .title::before{
 	transform: translateY(39px);
 }
+	.news_sct {
+  margin: 20px 0px;
+  padding: 30px 30px;
+}
 
 }
